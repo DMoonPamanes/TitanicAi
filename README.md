@@ -13,6 +13,6 @@ While there was some element of luck involved in surviving, it seems some groups
 
 Oscar Gutierrez <br />
 Oskar Gamboa <br />
-Marcelo De Luna
-Erika Martinez
+Marcelo De Luna <br />
+Erika Martinez <br />
 Ricardo Salinas
