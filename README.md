@@ -11,8 +11,8 @@ While there was some element of luck involved in surviving, it seems some groups
 
 ### Equipo 7
 
-Oscar Gutierrez \n
-Oskar Gamboa
+Oscar Gutierrez <br />
+Oskar Gamboa <br />
 Marcelo De Luna
 Erika Martinez
 Ricardo Salinas
