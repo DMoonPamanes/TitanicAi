@@ -7,9 +7,9 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 
 ## Lectura de Archivos
-**KaggleSubmit.jpeg** Foto del resultado obtenido en kaggle. <br />
-**RetoTitanic.ipynb** Codigo en python con la solucion del reto. <br />
-**kaggle_submit.csv**  Resultados obtenidos del codigo y listo para subirse a kaggle. <br />
+**KaggleSubmit.jpeg**: Foto del resultado obtenido en kaggle. <br />
+**RetoTitanic.ipynb**: Codigo en python con la solucion del reto. <br />
+**kaggle_submit.csv**:  Resultados obtenidos del codigo y listo para subirse a kaggle. <br />
 
 ### Equipo 7
 
